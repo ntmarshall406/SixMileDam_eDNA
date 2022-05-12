@@ -14,5 +14,5 @@ Nathaniel T. Marshall, Daniel E. Symonds, Cheryl A. Dean, Gregg Schumer, and W. 
 ## Available at (DOI):
 Coming soon
 
-## Citation (APA)
-Marshall, N., D. Symonds, C. Dean, G. Schumer, W. C. Fleece. Evaluating environmental DNA metabarcoding as a survey tool for unionid mussel assessments. Freshwater Biology.
+## Citation
+Marshall, N., D. Symonds, C. Dean, G. Schumer, W. C. Fleece. Evaluating environmental DNA metabarcoding as a survey tool for unionid mussel assessments. Freshwater Biology. In Press.
