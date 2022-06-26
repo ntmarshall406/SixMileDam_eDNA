@@ -12,7 +12,7 @@ Nathaniel T. Marshall, Daniel E. Symonds, Cheryl A. Dean, Gregg Schumer, and W. 
 5.	As eDNA methods can widen the traditional sampling season and improve the ability to sample difficult or dangerous environments, these results demonstrate the practicality of eDNA metabarcoding as a supplemental sampling method to describe diverse mussel communities and improve the detection of threatened and endangered species.
 
 ## Available at (DOI):
-Coming soon
+https://doi.org/10.1111/fwb.13955
 
 ## Citation
-Marshall, N., D. Symonds, C. Dean, G. Schumer, W. C. Fleece. Evaluating environmental DNA metabarcoding as a survey tool for unionid mussel assessments. Freshwater Biology. In Press.
+Marshall, N., D. Symonds, C. Dean, G. Schumer, W. C. Fleece. 2022. Evaluating environmental DNA metabarcoding as a survey tool for unionid mussel assessments. Freshwater Biology. In Press.
